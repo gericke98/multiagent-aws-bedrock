@@ -2,7 +2,7 @@
 
 This project implements a multi-agent system using AWS Bedrock for intelligent recommendations of accommodations and restaurants. The system uses a supervisor agent to coordinate specialized agents that can provide information about hotels, Airbnbs, and restaurants based on user queries.
 
-![Multi-Agent Workflow Diagram](Multi-Agentic-Workflow-Diagram.png)
+![Multi-Agent Workflow Diagram](Workflow-Diagram.png)
 
 ## Architecture
 
